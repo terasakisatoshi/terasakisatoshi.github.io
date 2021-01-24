@@ -2,6 +2,20 @@
 
 # Welcome to Satoshi Terasaki's webiste
 
+```julia:welcome
+#hideall
+using Luxor
+
+@svg begin
+    fontsize(25)
+    fontface("Zapfino")
+    text("Welcome to Satoshi Terasaki's website", halign=:center, valign=:middle)
+end 600 200 joinpath(@OUTPUT, "welcome")
+
+```
+
+\fig{welcome.svg}
+
 # Social media
 
 - GitHub: [https://github.com/terasakisatoshi](https://github.com/terasakisatoshi)
