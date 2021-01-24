@@ -6,12 +6,12 @@
 #hideall
 using Luxor
 
-@svg begin
-    fontsize(25)
-    fontface("Zapfino")
-    text("Welcome to Satoshi Terasaki's website", halign=:center, valign=:middle)
-end 600 200 joinpath(@OUTPUT, "welcome")
-
+Drawing(600, 200, joinpath(@OUTPUT, "welcome.svg"))
+origin()
+fontsize(25)
+fontface("Zapfino")
+text("Welcome to Satoshi Terasaki's website", halign=:center, valign=:middle)
+finish()
 ```
 
 \fig{welcome.svg}
