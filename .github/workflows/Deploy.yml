@@ -20,8 +20,8 @@ jobs:
     # NOTE: Here you can then install Python dependencies such as matplotlib if you use
     # packages such as PyPlot.
     # - run: pip install matplotlib
-    - name: Install xdg-open
-      run: sudo apt-get update && sudo apt-get install -y xdg-utils
+    #- name: Install xdg-open
+    #  run: sudo apt-get update && sudo apt-get install -y xdg-utils
     - name: Install Julia
       uses: julia-actions/setup-julia@v1
       with:

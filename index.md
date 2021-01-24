@@ -1,20 +1,6 @@
 @def title="Satoshi Terasaki's website"
 
-# Welcome to Satoshi Terasaki's webiste
-
-```julia:welcome
-#hideall
-using Luxor
-
-Drawing(600, 200, joinpath(@OUTPUT, "welcome.svg"))
-origin()
-fontsize(25)
-fontface("Zapfino")
-text("Welcome to Satoshi Terasaki's website", halign=:center, valign=:middle)
-finish()
-```
-
-\fig{welcome.svg}
+![](/assets/welcome.svg)
 
 # Social media
 
