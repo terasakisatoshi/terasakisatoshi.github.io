@@ -37,7 +37,7 @@ jobs:
     - run: julia --project -e '
             using NodeJS, Franklin;
             run(`$(npm_cmd()) install highlight.js`);
-            optimize(minify=false, prerender=true);
+            optimize(minify=true, prerender=true, clear=true);
             '
     - name: Build and Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v3
