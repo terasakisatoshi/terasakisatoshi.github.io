@@ -2,6 +2,8 @@
 
 # Welcome to Satoshi Terasaki's webiste
 
+<!--
+
 ```julia:welcome
 #hideall
 using Luxor
@@ -15,6 +17,8 @@ end 600 200 joinpath(@OUTPUT, "welcome")
 ```
 
 \fig{welcome.svg}
+
+-->
 
 # Social media
 
