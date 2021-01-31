@@ -54,3 +54,4 @@
   1. [大空スバル(Subaru Ch.)](https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA)
   1. [Watson Amelia Ch. hololive-EN](https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg)
   1. [しぐれうい](https://www.youtube.com/channel/UCt30jJgChL8qeT9VPadidSw)
+  1. [竜胆 尊 / Rindou Mikoto](https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A)
