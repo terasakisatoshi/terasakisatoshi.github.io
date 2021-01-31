@@ -45,6 +45,9 @@
 - April/2011 ~ Mar/2015:  Master course in [Mathematical Institute, Tohoku University](https://www.sci.tohoku.ac.jp/english/department/)
 - April/2007 ~ Mar/2011:  Bachelor in Tohoku University 
 
+# Awards
+
+- [川井数学奨励賞](http://kawai-zaidan.or.jp/Kawai-BSc-E.pdf)
 
 # Hobby
 
