@@ -16,7 +16,7 @@
 - Deep Learning 
   - PyTorch/Chainer/TensorFlow
   - Image Processing
-  - Pose Estimation
+  - Pose Estimation/Hand Pose Estimation/Action Recognition etc...
 - Raspberry Pi
 - Docker
 - Mathematics
