@@ -4,31 +4,36 @@
 
 - Satoshi Terasaki
 
+- I graduaced from graduate school (Master's degree in Math). I spent 6 years as a software engineer. For the 2 years I learned C/C++ through self-study which was SO tough for me because I had NO experience in software development at all prior to new graduate. After that I found Python and JuliaLang. They are very suitable for me. So, I prefer to use them. 
+- I like to make tools that visualize data regarding topics in Math. I think JuliaLang is the best to accomplish them.
 # Jobs
 
-- Software Engineer
-  - GitHub: [https://github.com/terasakisatoshi](https://github.com/terasakisatoshi)
+- I'm currently making applications based on Deep Learning as R&D by reading some articles and reproducing their results. 
+- You can check [my GitHub account](https://github.com/terasakisatoshi) to see what I did in the past.
+- I can write code with I hope to be of help by implementing software through collaboration with researchers.
 
 # Skills
 
 ## Keywords
 
 - Deep Learning 
-  - PyTorch/Chainer/TensorFlow
   - Image Processing
+  - PyTorch/Chainer/TensorFlow
   - Pose Estimation/Hand Pose Estimation/Action Recognition etc...
-- Raspberry Pi
+- Raspberry Pi/Jetson
 - Docker
+- Jupyter Notebook/Jupyter Lab/Pluto.jl
+- Dash/Streamlit/Bokeh
 - Mathematics
-  - Mathematical physics
-  - Number Theory
+  - Mathematical Physics (Quantum Groups)
+  - Number Theory (in Function Fields)
 
 ## Programming Languages
 
 ### Used in practice
 
 - Julia
-- Python 
+- Python
 - C/C++
 
 ### Learning
@@ -47,9 +52,9 @@
 
 # Awards
 
-- [川井数学奨励賞](http://kawai-zaidan.or.jp/Kawai-BSc-E.pdf)
+- [川井数学奨励賞](http://kawai-zaidan.or.jp/Kawai-BSc-E.pdf) in 2009
 
-# Hobby
+# Hobbies
 
 - Owning a Goma-chan
 - Watching VTuber's live streaming especially:
