@@ -10,7 +10,7 @@
 
 - I'm currently making applications based on Deep Learning as R&D by reading some articles and reproducing their results. 
 - You can check [my GitHub account](https://github.com/terasakisatoshi) to see what I did in the past.
-- I can write code with I hope to be of help by implementing software through collaboration with researchers.
+- I hope to be of help by implementing software through collaboration with researchers.
 
 # Skills
 
