@@ -17,13 +17,17 @@
 ## Keywords
 
 - Deep Learning 
-  - Image Processing
-  - PyTorch/Chainer/TensorFlow
-  - Pose Estimation/Hand Pose Estimation/Action Recognition etc...
-- Raspberry Pi/Jetson
+  - PyTorch/Chainer/TensorFlow/Flux.jl
+  - Pose Estimation/Hand Pose Estimation/Facial Landmark/Object Detection etc...
+- Raspberry Pi/Jetson/Micro Bit
 - Docker
-- Jupyter Notebook/Jupyter Lab/Pluto.jl
-- Dash/Streamlit/Bokeh
+- Python Programming
+  - PyTest/Poetry
+  - Jupyter Notebook/Jupyter Lab
+- Visualization Programming
+  - Dash/Streamlit/Bokeh/Pluto.jl
+- Literate Programming
+  - Documenter.jl/Franklin.jl/Remark.jl
 - Mathematics
   - Mathematical Physics (Quantum Groups)
   - Number Theory (in Function Fields)
@@ -38,8 +42,9 @@
 
 ### Learning
 
-- Elm
-- TypeScript
+- My weakness is having few experience in web development. Therefore I would like to learn web programming via modern language and basic techniques.
+  - Elm
+  - TypeScript including Basic HTML/CSS
 - Rust
 
 # History
