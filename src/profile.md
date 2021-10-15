@@ -48,7 +48,9 @@
 
 # History
 
-- Jan/2021 ~ : Working as a freelance
+- May/2021 : Working as a freelancer
+  - trade name [AtelierArith](https://www.atelier-arith.jp/)
+- Jan/2021 ~ : April/2021: MPS as a contract employe
 - April/2018 ~ Dec/2020:  Idein Inc.
 - April/2015 ~ Mar/2018:  NGR Inc. (TASMIT, Inc. currently)
 - April/2011 ~ Mar/2015:  Master course in [Mathematical Institute, Tohoku University](https://www.sci.tohoku.ac.jp/english/department/)
