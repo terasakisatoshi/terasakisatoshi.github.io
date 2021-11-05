@@ -4,6 +4,12 @@
 
 - [https://github.com/terasakisatoshi](https://github.com/terasakisatoshi)
 
+# GitHub Sponsors
+
+~~~
+<iframe src="https://github.com/sponsors/terasakisatoshi/card" title="Sponsor terasakisatoshi" height="225" width="600" style="border: 0;"></iframe>
+~~~
+
 # GitHub Stats
 
 ![terasakisatoshi's github stats](https://github-readme-stats.vercel.app/api?username=terasakisatoshi&show_icons=true&theme=monokai&show_icons=true) 
