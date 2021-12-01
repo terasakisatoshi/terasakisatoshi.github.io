@@ -49,6 +49,7 @@
 
 # History
 
+- Dec/2021 ~ : Working as a full-time employee
 - Jan/2021 ~ : Working as a freelance
 - April/2018 ~ Dec/2020:  Idein Inc.
 - April/2015 ~ Mar/2018:  NGR Inc. (TASMIT, Inc. currently)
