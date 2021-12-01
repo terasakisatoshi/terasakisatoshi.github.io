@@ -49,7 +49,6 @@
 # History
 
 - Dec/2021 ~ : Working as a full-time employee
-- Jan/2021 ~ : Working as a freelance
 - May/2021 : Working as a freelancer
   - trade name [AtelierArith](https://www.atelier-arith.jp/)
 - Jan/2021 ~ : April/2021: MPS as a contract employe
