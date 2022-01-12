@@ -9,7 +9,21 @@
 ![terasakisatoshi's github stats](https://github-readme-stats.vercel.app/api?username=terasakisatoshi&show_icons=true&theme=monokai&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terasakisatoshi&theme=monokai&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
-# Project
+# Projects
+
+## 2021
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MyTemplate.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/MyTemplate.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=sysimage_creator&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/sysimage_creator)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MyPlutoflow.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/MyPlutoflow.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=streamlit_handwritten_recognition&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/streamlit_handwritten_recognition)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=streamlit_handwritten_recognition&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/streamlit_handwritten_recognition)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=binder_docker_playground&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/binder_docker_playground)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MyVSCodeWorkspace.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/MyVSCodeWorkspace.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=jldev_poetry&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/jldev_poetry)
 
 ## 2020
 
