@@ -11,6 +11,20 @@
 
 # Projects
 
+## 2022
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=PCRP.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/PCRP.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=TweetPlots.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/TweetPlots.jl)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=QuartzGetWindow.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/QuartzGetWindow.jl)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=Kyulacs.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/Kyulacs.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=PyPlotly.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/PyPlotly.jl)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=GomalizingFlow.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/GomalizingFlow.jl)
+
+[GomalizingFlow.jl: A Julia package for Flow-based sampling algorithm for lattice field theory](https://arxiv.org/abs/2208.08903)
+
 ## 2021
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MyTemplate.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/MyTemplate.jl)
