@@ -23,6 +23,7 @@
 - Deep Learning 
   - PyTorch/Chainer/TensorFlow/Flux.jl
   - Pose Estimation/Hand Pose Estimation/Facial Landmark/Object Detection etc...
+  - Unsupervised Anomaly Detection 
 - Raspberry Pi/Jetson/Micro Bit
 - Docker
 - GCP/Vertex AI
@@ -37,8 +38,8 @@
 - Mathematics/Physics
   - Mathematical Physics (Quantum Groups)
   - Number Theory (in Function Fields)
-  - Lattice filed theory
-  - Quantum circuit simulation
+  - Lattice filed theory [GomalizingFlow.jl](https://github.com/AtelierArith/GomalizingFlow.jl)
+  - Quantum circuit simulation: [Kyulacs.jl](https://github.com/AtelierArith/Kyulacs.jl)
 
 ## Programming Languages
 

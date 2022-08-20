@@ -23,8 +23,6 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=GomalizingFlow.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/GomalizingFlow.jl)
 
-[GomalizingFlow.jl: A Julia package for Flow-based sampling algorithm for lattice field theory](https://arxiv.org/abs/2208.08903)
-
 ## 2021
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MyTemplate.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/MyTemplate.jl)
