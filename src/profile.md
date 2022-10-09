@@ -69,7 +69,7 @@
 
 # Awards
 
-- [川井数学奨励賞](http://kawai-zaidan.or.jp/Kawai-BSc-E.pdf) in 2009
+- [川井数学奨励賞](http://kawai-zaidan.or.jp/prizes/Kawai-BSc-E.pdf) in 2009
 
 # Hobbies
 
