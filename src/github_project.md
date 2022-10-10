@@ -63,8 +63,8 @@
 
 ### JuliaLang
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=Gomah.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=PPN.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=Gomah.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/Gomah.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=PPN.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/PPN.jl)
 
 ### Deep Learning
 
