@@ -56,17 +56,6 @@
 - Rust
 - Cloud Computing: GCP
 
-# History
-
-- Dec/2021 ~ : Working as a full-time employee
-- May/2021 : Working as a freelancer
-  - trade name [AtelierArith](https://www.atelier-arith.jp/)
-- Jan/2021 ~ : April/2021: MPS as a contract employe
-- April/2018 ~ Dec/2020:  Idein Inc.
-- April/2015 ~ Mar/2018:  NGR Inc. (TASMIT, Inc. currently)
-- April/2011 ~ Mar/2015:  Master course in [Mathematical Institute, Tohoku University](https://www.sci.tohoku.ac.jp/english/department/)
-- April/2007 ~ Mar/2011:  Bachelor in Tohoku University 
-
 # Awards
 
 - [川井数学奨励賞](http://kawai-zaidan.or.jp/prizes/Kawai-BSc-E.pdf) in 2009
