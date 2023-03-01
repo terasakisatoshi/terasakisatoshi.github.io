@@ -14,7 +14,8 @@
 
 # Papers on arXiv
 
-[Papers on arXiv](https://arxiv.org/search/hep-lat?searchtype=author&query=Terasaki%2C+S)
+- [Combinational-convolution for flow-based sampling algorithm](https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_31.pdf)
+- [GomalizingFlow.jl: A Julia package for Flow-based sampling algorithm for lattice field theory](https://arxiv.org/abs/2208.08903)
 
 # Skills
 
@@ -36,7 +37,7 @@
 - Literate Programming
   - Documenter.jl/Franklin.jl/Remark.jl
 - Mathematics/Physics
-  - Mathematical Physics (Quantum Groups)
+  - [Quantum Groups](https://tohoku.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=136403&item_no=1&page_id=33&block_id=46)
   - Number Theory (in Function Fields)
   - Lattice filed theory [GomalizingFlow.jl](https://github.com/AtelierArith/GomalizingFlow.jl)
   - Quantum circuit simulation: [Kyulacs.jl](https://github.com/AtelierArith/Kyulacs.jl)
