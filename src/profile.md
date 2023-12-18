@@ -4,9 +4,16 @@
 
 - Satoshi Terasaki
 
+```julia:./profile/releasedate
+#hideall
+using Dates
+nyears = Dates.Year(Dates.now()) - Dates.Year(2015)
+print(string(nyears))
+```
+
 # About me
 
-- I graduaced from graduate school (Master's degree in Math). I spent 7 years as a software engineer. For the 2 years I learned C/C++ through self-study which was so tough for me because I had NO experience in software development at all prior to new graduate. After that I found Python and JuliaLang. They are very suitable for me. So, I prefer to use them. 
+- I graduaced from graduate school (Master's degree in Math) in 2015. I spent \textoutput{./profile/releasedate} as a software engineer. For the 2 years I learned C/C++ through self-study which was so tough for me because I had NO experience in software development at all prior to new graduate. After that I found Python and JuliaLang. They are very suitable for me. So, I prefer to use them.
 - I like to make tools that visualize data regarding topics in Math. I think JuliaLang is the best to accomplish them.
 - I'm currently making applications based on Deep Learning by reading some articles and reproducing their results.
 - You can check [my GitHub account](https://github.com/terasakisatoshi) to see what I did in the past.
@@ -14,17 +21,18 @@
 
 # Papers on arXiv
 
-- [Combinational-convolution for flow-based sampling algorithm](https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_31.pdf)
-- [GomalizingFlow.jl: A Julia package for Flow-based sampling algorithm for lattice field theory](https://arxiv.org/abs/2208.08903)
+- Joint work with [A.Tomiya](https://www2.yukawa.kyoto-u.ac.jp/~akio.tomiya/index_en.html)
+  - [Combinational-convolution for flow-based sampling algorithm](https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_31.pdf)
+  - [GomalizingFlow.jl: A Julia package for Flow-based sampling algorithm for lattice field theory](https://arxiv.org/abs/2208.08903)
 
 # Skills
 
 ## Keywords
 
-- Deep Learning 
+- Deep Learning
   - PyTorch/Chainer/TensorFlow/Flux.jl
   - Pose Estimation/Hand Pose Estimation/Facial Landmark/Object Detection etc...
-  - Unsupervised Anomaly Detection 
+  - Unsupervised Anomaly Detection
 - Raspberry Pi/Jetson/Micro Bit
 - Docker
 - GCP/Vertex AI
