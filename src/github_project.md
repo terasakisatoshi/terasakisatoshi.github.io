@@ -11,6 +11,29 @@
 
 # Projects
 
+## 2023
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=WitchViewer.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/WitchViewer.jl)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=Sacabambaspis.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/Sacabambaspis.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=Cerastes.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/Cerastes.jl)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=Parsley.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/Parsley.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MojiMoji.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/MojiMoji.jl)
+
+- Activities in AtelierArith
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=julia_tutorial&show_owner=true&theme=monokai)](https://github.com/AtelierArith/julia_tutorial)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=Lamp.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/Lamp.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=SegRCDB.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/RandomLogos.jl)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=SegRCDB.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/SegRCDB.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=VisualAtom.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/VisualAtom.jl)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=Kyuri.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/Kyuri.jl)
+
+
 ## 2022
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=PCRP.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/PCRP.jl)
