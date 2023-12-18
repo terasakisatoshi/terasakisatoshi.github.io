@@ -52,6 +52,12 @@ print(string(nyears))
 
 ## Programming Languages
 
+## Education
+
+- [数学と物理におけるJuliaの活用](https://akio-tomiya.github.io/julia_imi_workshop2023/) 2023年7月10-12, 世話人
+- [計算物理春の学校 2023](https://hohno0223.github.io/comp_phys_spring_school2023/) 2023年3月12-15日, GPU 入門の TA として参加
+- [Julia in Physics 2021 Online](https://akio-tomiya.github.io/julia_in_physics/) 2021年9月3日, Zygote.jl・Flux.jl を用いた自動微分とその応用に関してのチュートリアル講演を行う
+
 ### Used in practice
 
 - Julia
