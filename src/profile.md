@@ -13,11 +13,15 @@ print(string(nyears))
 
 # About me
 
-- I graduaced from graduate school (Master's degree in Math) in 2015. I spent \textoutput{./profile/releasedate} as a software engineer. For the 2 years I learned C/C++ through self-study which was so tough for me because I had NO experience in software development at all prior to new graduate. After that I found Python and JuliaLang. They are very suitable for me. So, I prefer to use them.
-- I like to make tools that visualize data regarding topics in Math. I think JuliaLang is the best to accomplish them.
-- I'm currently making applications based on Deep Learning by reading some articles and reproducing their results.
-- You can check [my GitHub account](https://github.com/terasakisatoshi) to see what I did in the past.
-- I hope to be of help by implementing software through collaboration with researchers.
+I graduaced from graduate school (Master's degree in Math) in 2015. I spent \textoutput{./profile/releasedate} as a software engineer. For the past two years, I learned C/C++ through self-study, which was challenging for me because I had no prior experience in software development before graduating. After that, I discovered Python and JuliaLang, which are very suitable for my needs, so I prefer using them. 
+
+I enjoy creating tools to visualize data related to mathematical topics, and I believe JuliaLang is the best choice for accomplishing these tasks. I've developed applications based on deep learning by reading articles and reproducing their results.
+
+I currently assist several researchers and students by creating and updating software related to quantum computing, tensor network and setting up GitLab CI/CD pipelines.
+
+You can check out [my GitHub account](https://github.com/terasakisatoshi) to see my past projects and contributions.
+
+I am enthusiastic about collaborating with researchers and contributing to software development that can be of assistance."
 
 # Papers on arXiv
 
