@@ -13,6 +13,7 @@
 
 ## 2023
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=jldev_rye&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/jldev_rye)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=WitchViewer.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/WitchViewer.jl)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=Sacabambaspis.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/Sacabambaspis.jl)
