@@ -73,6 +73,8 @@ I am enthusiastic about collaborating with researchers and contributing to softw
 - [Julia in Physics 2021 Online](https://akio-tomiya.github.io/julia_in_physics/) 2021年9月3日, Zygote.jl・Flux.jl を用いた自動微分とその応用に関してのチュートリアル講演を行う
 - [実践Julia入門](https://gihyo.jp/book/2023/978-4-297-13350-4) の監修を行う
 - [Juliaプログラミング大全](https://www.kspub.co.jp/book/detail/5318195.html) のレビューワに参加
+- [JuliaTokyo #11](https://juliatokyo.connpass.com/event/306300/) 登壇 2月3日
+  - [資料](https://atelierarith.github.io/JuliaTokyoFeb2024/)
 - [計算物理春の学校 2024](https://compphysspringschool2024.github.io/homepage2024/) 2024年3月11日-3月15日, ソフトウェア入門講義の講師を担当
   - [教材リポジトリ](https://github.com/AtelierArith/intro2software_with_julia)
 
