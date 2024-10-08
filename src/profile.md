@@ -13,17 +13,20 @@ print(string(nyears))
 
 # About me
 
-I graduaced from graduate school (Master's degree in Math) in 2015. I spent \textoutput{./profile/releasedate} as a software engineer. For the past two years, I learned C/C++ through self-study, which was challenging for me because I had no prior experience in software development before graduating. After that, I discovered Python and JuliaLang, which are very suitable for my needs, so I prefer using them. 
+I finished graduate school (Master's degree in Math) in 2015. I spent \textoutput{./profile/releasedate} as a software engineer. I spent the last two years learning C/C++ on my own, which was challenging because I had no experience in software development before graduating. After that, I discovered Python and JuliaLang, which are very suitable for my needs, so I prefer to use them. 
 
-I enjoy creating tools to visualize data related to mathematical topics, and I believe JuliaLang is the best choice for accomplishing these tasks. I've developed applications based on deep learning by reading articles and reproducing their results.
+I enjoy creating tools to visualize data related to mathematical topics, and I believe that JuliaLang is the best choice to accomplish these tasks. I've developed applications based on deep learning by reading articles and reproducing their results.
 
-I currently assist several researchers and students by creating and updating software related to quantum computing, tensor network and setting up GitLab CI/CD pipelines.
+Currently, I support several researchers and students by creating and updating software related to quantum computing, tensor networks, and setting up GitLab CI/CD pipelines.
 
 You can check out [my GitHub account](https://github.com/terasakisatoshi) to see my past projects and contributions.
 
 I am enthusiastic about collaborating with researchers and contributing to software development that can be of assistance."
 
 # Papers on arXiv
+
+- Joint work with [tensor4all](https://tensor4all.org/) members
+  - [Learning tensor networks with tensor cross interpolation: new algorithms and libraries](https://arxiv.org/abs/2407.02454)
 
 - Joint work with [A.Tomiya](https://www2.yukawa.kyoto-u.ac.jp/~akio.tomiya/index_en.html)
   - [Combinational-convolution for flow-based sampling algorithm](https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_31.pdf)
@@ -60,11 +63,14 @@ I am enthusiastic about collaborating with researchers and contributing to softw
   - Quantum circuit simulation: [Kyulacs.jl](https://github.com/AtelierArith/Kyulacs.jl)
 - JuliaLang
   - DecisionTree CART
-  - CI/CD
   - ITensors.jl
-  - QuriParts
-- Pluto.jl
+  - CxxWrap.jl
+- QuriParts
+- CI/CD pipeline
+- Pluto.jl/PlutoUI.jl
 - Rye/uv/ruff/Poetry
+- Dart
+- Deno
 
 ## Education
 
@@ -84,6 +90,7 @@ I am enthusiastic about collaborating with researchers and contributing to softw
 
 - Julia
 - Python
+- Deno
 - C/C++
 
 ### Learning
@@ -99,7 +106,7 @@ I am enthusiastic about collaborating with researchers and contributing to softw
 
 # Hobbies
 
-- Owning a Goma-chan
+- Owning a Goma-chan See https://en.wikipedia.org/wiki/Sh%C5%8Dnen_Ashibe
 - Creating images via ChatGPT
   - Many works can be found at [ImportAzarashiAsAI](https://twitter.com/search?q=%23ImportAzarashiAsAI&src=hashtag_click&f=live)
 - Watching VTuber's live streaming especially:

@@ -7,6 +7,7 @@
 - Email: `terasakisatoshi.math[At]gmail.com`
 - GitHub: [https://github.com/terasakisatoshi](https://github.com/terasakisatoshi)
 - [AtelierArith](https://github.com/AtelierArith)
+  - My personal organization for storing Julia packages that I mainly developed
 
 - Japanese tech blog
     - [Zenn](https://zenn.dev/) [https://zenn.dev/terasakisatoshi](https://zenn.dev/terasakisatoshi)
