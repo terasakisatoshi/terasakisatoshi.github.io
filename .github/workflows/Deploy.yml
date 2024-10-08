@@ -25,7 +25,7 @@ jobs:
     - name: Install Julia
       uses: julia-actions/setup-julia@v1
       with:
-        version: 1.6
+        version: 1.10
     - name: Install dependencies listed in Project.toml and build package
       uses: julia-actions/julia-buildpkg@master
     # NOTE
