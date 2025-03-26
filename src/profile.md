@@ -110,9 +110,4 @@ I am enthusiastic about collaborating with researchers and contributing to softw
 - Creating images via ChatGPT
   - Many works can be found at [ImportAzarashiAsAI](https://twitter.com/search?q=%23ImportAzarashiAsAI&src=hashtag_click&f=live)
 - Watching VTuber's live streaming especially:
-  1. [百鬼あやめ(Nakiri Ayame Ch.)](https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg) $\leftarrow$ 推し(my fave).
-  1. [大空スバル(Subaru Ch.)](https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA)
-  1. [Ceres Fauna Ch. hololive-EN](https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ)
-  1. [Ouro Kronii Ch. hololive-EN](https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg)
-  1. [Mio Channel 大神ミオ](https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg)
-  1. [しぐれうい](https://www.youtube.com/channel/UCt30jJgChL8qeT9VPadidSw)
+  - [戌亥とこ](https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg)
