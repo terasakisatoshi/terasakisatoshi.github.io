@@ -62,9 +62,10 @@ I am enthusiastic about collaborating with researchers and contributing to softw
   - Lattice filed theory [GomalizingFlow.jl](https://github.com/AtelierArith/GomalizingFlow.jl)
   - Quantum circuit simulation: [Kyulacs.jl](https://github.com/AtelierArith/Kyulacs.jl)
 - JuliaLang
-  - DecisionTree CART
+  - DecisionTree/CART
   - ITensors.jl
   - CxxWrap.jl
+  - TrajectoryOptimization.jl
 - QuriParts
 - CI/CD pipeline
 - Pluto.jl/PlutoUI.jl
@@ -74,6 +75,8 @@ I am enthusiastic about collaborating with researchers and contributing to softw
 
 ## Education
 
+- [計算物理春の学校 2024](https://compphysspringschool2024.github.io/homepage2024/) 2024年3月11日-3月15日, ソフトウェア入門講義の講師を担当
+  - [教材リポジトリ](https://github.com/AtelierArith/intro2software_with_julia)
 - [数学と物理におけるJuliaの活用](https://akio-tomiya.github.io/julia_imi_workshop2023/) 2023年7月10-12, 世話人
 - [計算物理春の学校 2023](https://hohno0223.github.io/comp_phys_spring_school2023/) 2023年3月12-15日, GPU 入門の TA として参加
 - [Julia in Physics 2021 Online](https://akio-tomiya.github.io/julia_in_physics/) 2021年9月3日, Zygote.jl・Flux.jl を用いた自動微分とその応用に関してのチュートリアル講演を行う
@@ -81,8 +84,6 @@ I am enthusiastic about collaborating with researchers and contributing to softw
 - [Juliaプログラミング大全](https://www.kspub.co.jp/book/detail/5318195.html) のレビューワに参加
 - [JuliaTokyo #11](https://juliatokyo.connpass.com/event/306300/) 登壇 2月3日
   - [資料](https://atelierarith.github.io/JuliaTokyoFeb2024/)
-- [計算物理春の学校 2024](https://compphysspringschool2024.github.io/homepage2024/) 2024年3月11日-3月15日, ソフトウェア入門講義の講師を担当
-  - [教材リポジトリ](https://github.com/AtelierArith/intro2software_with_julia)
 
 ## Programming Languages
 
