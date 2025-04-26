@@ -18,9 +18,9 @@ jobs:
         persist-credentials: false
     # NOTE: Python is necessary if you set minify=true in optimize below
     - name: Install python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v5
       with:
-        python-version: '3.11'
+        python-version: '3.12'
     # NOTE: Here you can then install Python dependencies such as matplotlib if you use
     # packages such as PyPlot.
     # - run: pip install matplotlib
@@ -29,7 +29,7 @@ jobs:
     - name: Install Julia
       uses: julia-actions/setup-julia@v2
       with:
-        version: 1.10
+        version: lts
     - name: Install dependencies listed in Project.toml and build package
       uses: julia-actions/julia-buildpkg@v1
     # NOTE
