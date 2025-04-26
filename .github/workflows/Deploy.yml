@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
       with:
         persist-credentials: false
     # NOTE: Python is necessary if you set minify=true in optimize below
@@ -23,11 +23,11 @@ jobs:
     #- name: Install xdg-open
     #  run: sudo apt-get update && sudo apt-get install -y xdg-utils
     - name: Install Julia
-      uses: julia-actions/setup-julia@v1
+      uses: julia-actions/setup-julia@v2
       with:
         version: 1.10
     - name: Install dependencies listed in Project.toml and build package
-      uses: julia-actions/julia-buildpkg@master
+      uses: julia-actions/julia-buildpkg@v1
     # NOTE
     #   Using --project below ensures that the environment defined by
     #   Project.toml and built by `julia-buildpkg` is loaded.
