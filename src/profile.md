@@ -17,7 +17,7 @@ I finished graduate school (Master's degree in Math) in 2015. I spent \textoutpu
 
 I enjoy creating tools to visualize data related to mathematical topics, and I believe that JuliaLang is the best choice to accomplish these tasks. I've developed applications based on deep learning by reading articles and reproducing their results.
 
-Currently, I support several researchers and students by creating and updating software related to quantum computing, tensor networks, and setting up GitLab CI/CD pipelines.
+Currently, I support several researchers and students by creating and updating Julia software related to quantum computing, tensor networks, quantum multi-body problem.
 
 You can check out [my GitHub account](https://github.com/terasakisatoshi) to see my past projects and contributions.
 
@@ -72,6 +72,8 @@ I am enthusiastic about collaborating with researchers and contributing to softw
 - Rye/uv/ruff/Poetry
 - Dart
 - Deno
+- Computational Quantum Many-Body
+  - SparseIR.jl/LibSparseIR.jl/libsparseir
 
 ## Education
 
