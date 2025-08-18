@@ -21,7 +21,7 @@ Currently, I support several researchers and students by creating and updating J
 
 You can check out [my GitHub account](https://github.com/terasakisatoshi) to see my past projects and contributions.
 
-I am enthusiastic about collaborating with researchers and contributing to software development that can be of assistance."
+I am enthusiastic about collaborating with researchers and contributing to software development that can be of assistance.
 
 # Papers on arXiv
 
