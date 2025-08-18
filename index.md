@@ -8,6 +8,7 @@
 - GitHub: [https://github.com/terasakisatoshi](https://github.com/terasakisatoshi)
 - [AtelierArith](https://github.com/AtelierArith)
   - My personal organization for storing Julia packages that I mainly developed
+- LinkedIn: [Satoshi Terasaki](https://www.linkedin.com/in/satoshi-terasaki-b0a280205/)
 
 - Japanese tech blog
     - [Zenn](https://zenn.dev/) [https://zenn.dev/terasakisatoshi](https://zenn.dev/terasakisatoshi)
