@@ -25,6 +25,8 @@ I am enthusiastic about collaborating with researchers and contributing to softw
 
 # Papers on arXiv
 
+- Joint work with Fumiya Kakizawa and Hiroshi Shinaoka: [Physics-informed neural network model for quantum impurity problems based on Lehmann representation](https://arxiv.org/abs/2411.18835)
+
 - Joint work with [tensor4all](https://tensor4all.org/) members
   - [Learning tensor networks with tensor cross interpolation: new algorithms and libraries](https://arxiv.org/abs/2407.02454)
 
@@ -36,13 +38,13 @@ I am enthusiastic about collaborating with researchers and contributing to softw
 
 # Skills
 
-## Keywords
+## Keywords (Used in practice)
 
 - Deep Learning
   - PyTorch/Chainer/TensorFlow/Flux.jl
   - Pose Estimation/Hand Pose Estimation/Facial Landmark/Object Detection etc...
   - Unsupervised Anomaly Detection
-- Raspberry Pi/Jetson/Micro Bit
+- RaspberryPi/Jetson/Micro Bit
 - Docker
 - GCP/Vertex AI
 - Python Programming
@@ -65,18 +67,25 @@ I am enthusiastic about collaborating with researchers and contributing to softw
   - DecisionTree/CART
   - ITensors.jl
   - CxxWrap.jl
-  - TrajectoryOptimization.jl
-- QuriParts
+  - TrajectoryOptimization.jl/Altro.jl
 - CI/CD pipeline
-- Pluto.jl/PlutoUI.jl
+- Pluto.jl/PlutoUI.jl/PlutoMonacoEditor.jl
 - Rye/uv/ruff/Poetry
-- Dart
+- Dart/Flutter/Android apps
+- Swift/SubsetJuliaVM
 - Deno
 - Computational Quantum Many-Body
+  - QuriParts
   - SparseIR.jl/LibSparseIR.jl/libsparseir
+- TensorNetwork
+  - [tensor4all](https://github.com/shinaoka/tensor4all-rs)
+- Claude Code/Codex/OpenCode/ChatGPT
 
 ## Education
 
+- [CompPhysHack2026HandsOn](https://atelierarith.github.io/CompPhysHack2026HandsOn/) March 6 - 8, 2026, Coding Agent についての講師を担当
+- [JuliaLang Japan 2025](https://julialangja.github.io/julialangja2025/) 2025年12月13日, 世話人
+- [Let’s read Julia documentation in your preferred language](https://atelierarith.github.io/AtelierArith_JuliaCon2025_talk/slide/slide.html) JuliaCon 2025 にて登壇
 - [計算物理春の学校 2024](https://compphysspringschool2024.github.io/homepage2024/) 2024年3月11日-3月15日, ソフトウェア入門講義の講師を担当
   - [教材リポジトリ](https://github.com/AtelierArith/intro2software_with_julia)
 - [数学と物理におけるJuliaの活用](https://akio-tomiya.github.io/julia_imi_workshop2023/) 2023年7月10-12, 世話人
@@ -93,15 +102,12 @@ I am enthusiastic about collaborating with researchers and contributing to softw
 
 - Julia
 - Python
-- Deno
-- C/C++
-
-### Learning
-
-- My weakness is having few experience in web development. Therefore I would like to learn web programming via modern language and basic techniques.
-  - TypeScript including Basic HTML/CSS
 - Rust
-- Cloud Computing: GCP
+- TypeScript
+- Deno
+- Swift (for iOS app development)
+- Dart/Flutter (for Android app development)
+- C/C++
 
 # Awards
 
@@ -109,7 +115,7 @@ I am enthusiastic about collaborating with researchers and contributing to softw
 
 # Hobbies
 
-- Owning a Goma-chan See https://en.wikipedia.org/wiki/Sh%C5%8Dnen_Ashibe
+- Owning a Goma-chan See [Shōnen_Ashibe](https://en.wikipedia.org/wiki/Sh%C5%8Dnen_Ashibe)
 - Creating images via ChatGPT
   - Many works can be found at [ImportAzarashiAsAI](https://twitter.com/search?q=%23ImportAzarashiAsAI&src=hashtag_click&f=live)
 - Watching VTuber's live streaming especially:
