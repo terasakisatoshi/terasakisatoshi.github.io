@@ -6,8 +6,7 @@
 
 # GitHub Stats
 
-![terasakisatoshi's github stats](https://github-readme-stats.vercel.app/api?username=terasakisatoshi&show_icons=true&theme=monokai&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terasakisatoshi&theme=monokai&hide=css,html,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+- [View GitHub profile and activity](https://github.com/terasakisatoshi)
 
 # Projects
 
@@ -15,135 +14,174 @@
 
 - Activities in AtelierArith
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=DocumenterTranslationOpenAIBackend.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/DocumenterTranslationOpenAIBackend.jl)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=MethodExplorer.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/MethodExplorer.jl)
+- [AtelierArith/DocumenterTranslationOpenAIBackend.jl](https://github.com/AtelierArith/DocumenterTranslationOpenAIBackend.jl)
+- [AtelierArith/MethodExplorer.jl](https://github.com/AtelierArith/MethodExplorer.jl)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=rust-random-logo&show_owner=true&theme=monokai)](https://github.com/AtelierArith/rust-random-logo)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=DocstringTranslation.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/DocstringTranslation.jl)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=DocstringTranslationOllamaBackend.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/DocstringTranslationOllamaBackend.jl)
+- [AtelierArith/rust-random-logo](https://github.com/AtelierArith/rust-random-logo)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=DocstringTranslationExoBackend.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/DocstringTranslationExoBackend.jl)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=DocstringTranslationGoogleTransBackend.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/DocstringTranslationGoogleTransBackend.jl)
+
+- [AtelierArith/DocstringTranslation.jl](https://github.com/AtelierArith/DocstringTranslation.jl)
+- [AtelierArith/DocstringTranslationOllamaBackend.jl](https://github.com/AtelierArith/DocstringTranslationOllamaBackend.jl)
+
+
+- [AtelierArith/DocstringTranslationExoBackend.jl](https://github.com/AtelierArith/DocstringTranslationExoBackend.jl)
+- [AtelierArith/DocstringTranslationGoogleTransBackend.jl](https://github.com/AtelierArith/DocstringTranslationGoogleTransBackend.jl)
+
 
 ## 2024
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=TypingSVG.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/TypingSVG.jl)
+- [terasakisatoshi/TypingSVG.jl](https://github.com/terasakisatoshi/TypingSVG.jl)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=jldev_jluna&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/jldev_jluna)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MyCling.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/MyCling.jl)
+
+- [terasakisatoshi/jldev_jluna](https://github.com/terasakisatoshi/jldev_jluna)
+- [terasakisatoshi/MyCling.jl](https://github.com/terasakisatoshi/MyCling.jl)
+
 
 - Activities in AtelierArith
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=TerminalSystemMonitor.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/TerminalSystemMonitor.jl)
+- [AtelierArith/TerminalSystemMonitor.jl](https://github.com/AtelierArith/TerminalSystemMonitor.jl)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=MacOSIOReport.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/MacOSIOReport.jl)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=PlutoMonacoEditor.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/PlutoMonacoEditor.jl)
+- [AtelierArith/MacOSIOReport.jl](https://github.com/AtelierArith/MacOSIOReport.jl)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=PlutoMonacoDiffViewer.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/PlutoMonacoDiffViewer.jl)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=PkgBump.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/PkgBump.jl)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=QuartzGetWindow.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/QuartzGetWindow.jl)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=DocstringAsImage.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/DocstringAsImage.jl)
+- [AtelierArith/PlutoMonacoEditor.jl](https://github.com/AtelierArith/PlutoMonacoEditor.jl)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=TerminalGat.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/TerminalGat.jl)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=DocstringChef.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/DocstringChef.jl)
+- [AtelierArith/PlutoMonacoDiffViewer.jl](https://github.com/AtelierArith/PlutoMonacoDiffViewer.jl)
+- [AtelierArith/PkgBump.jl](https://github.com/AtelierArith/PkgBump.jl)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=CarbonNowCLI.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/CarbonNowCLI.jl)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=PlutoEditorColorThemes.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/PlutoEditorColorThemes.jl)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=TabNineCompletion.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/TabNineCompletion.jl)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=dart-random-logo&show_owner=true&theme=monokai)](https://github.com/AtelierArith/dart-random-logo)
+- [AtelierArith/QuartzGetWindow.jl](https://github.com/AtelierArith/QuartzGetWindow.jl)
+- [AtelierArith/DocstringAsImage.jl](https://github.com/AtelierArith/DocstringAsImage.jl)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=CxxRandomLogo&show_owner=true&theme=monokai)](https://github.com/AtelierArith/CxxRandomLogo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=EasyEigenInterface.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/EasyEigenInterface.jl)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=OmikujiWorkflow.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/OmikujiWorkflow.jl)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=OkinawaCompPhysFoodSurvey2024.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/OkinawaCompPhysFoodSurvey2024.jl)
+- [AtelierArith/TerminalGat.jl](https://github.com/AtelierArith/TerminalGat.jl)
+
+
+- [AtelierArith/DocstringChef.jl](https://github.com/AtelierArith/DocstringChef.jl)
+
+
+- [AtelierArith/CarbonNowCLI.jl](https://github.com/AtelierArith/CarbonNowCLI.jl)
+- [AtelierArith/PlutoEditorColorThemes.jl](https://github.com/AtelierArith/PlutoEditorColorThemes.jl)
+
+
+- [AtelierArith/TabNineCompletion.jl](https://github.com/AtelierArith/TabNineCompletion.jl)
+- [AtelierArith/dart-random-logo](https://github.com/AtelierArith/dart-random-logo)
+
+
+- [AtelierArith/CxxRandomLogo](https://github.com/AtelierArith/CxxRandomLogo)
+- [AtelierArith/EasyEigenInterface.jl](https://github.com/AtelierArith/EasyEigenInterface.jl)
+
+
+- [AtelierArith/OmikujiWorkflow.jl](https://github.com/AtelierArith/OmikujiWorkflow.jl)
+- [AtelierArith/OkinawaCompPhysFoodSurvey2024.jl](https://github.com/AtelierArith/OkinawaCompPhysFoodSurvey2024.jl)
+
 
 
 ## 2023
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=jldev_rye&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/jldev_rye)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=WitchViewer.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/WitchViewer.jl)
+- [terasakisatoshi/jldev_rye](https://github.com/terasakisatoshi/jldev_rye)
+- [terasakisatoshi/WitchViewer.jl](https://github.com/terasakisatoshi/WitchViewer.jl)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=Sacabambaspis.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/Sacabambaspis.jl)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=Cerastes.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/Cerastes.jl)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=Parsley.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/Parsley.jl)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MojiMoji.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/MojiMoji.jl)
+- [terasakisatoshi/Sacabambaspis.jl](https://github.com/terasakisatoshi/Sacabambaspis.jl)
+- [terasakisatoshi/Cerastes.jl](https://github.com/terasakisatoshi/Cerastes.jl)
+
+
+- [terasakisatoshi/Parsley.jl](https://github.com/terasakisatoshi/Parsley.jl)
+- [terasakisatoshi/MojiMoji.jl](https://github.com/terasakisatoshi/MojiMoji.jl)
+
 
 - Activities in AtelierArith
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=julia_tutorial&show_owner=true&theme=monokai)](https://github.com/AtelierArith/julia_tutorial)
+- [AtelierArith/julia_tutorial](https://github.com/AtelierArith/julia_tutorial)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=Lamp.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/Lamp.jl)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=SegRCDB.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/RandomLogos.jl)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=SegRCDB.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/SegRCDB.jl)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=VisualAtom.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/VisualAtom.jl)
+- [AtelierArith/Lamp.jl](https://github.com/AtelierArith/Lamp.jl)
+- [AtelierArith/RandomLogos.jl](https://github.com/AtelierArith/RandomLogos.jl)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=Kyuri.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/Kyuri.jl)
+
+- [AtelierArith/SegRCDB.jl](https://github.com/AtelierArith/SegRCDB.jl)
+- [AtelierArith/VisualAtom.jl](https://github.com/AtelierArith/VisualAtom.jl)
+
+
+- [AtelierArith/Kyuri.jl](https://github.com/AtelierArith/Kyuri.jl)
+
 
 
 ## 2022
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=PCRP.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/PCRP.jl)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=TweetPlots.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/TweetPlots.jl)
+- [terasakisatoshi/PCRP.jl](https://github.com/terasakisatoshi/PCRP.jl)
+- [terasakisatoshi/TweetPlots.jl](https://github.com/terasakisatoshi/TweetPlots.jl)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=QuartzGetWindow.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/QuartzGetWindow.jl)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=Kyulacs.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/Kyulacs.jl)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=PyPlotly.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/PyPlotly.jl)
+- [terasakisatoshi/QuartzGetWindow.jl](https://github.com/terasakisatoshi/QuartzGetWindow.jl)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=GomalizingFlow.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/GomalizingFlow.jl)
+
+- [AtelierArith/Kyulacs.jl](https://github.com/AtelierArith/Kyulacs.jl)
+- [AtelierArith/PyPlotly.jl](https://github.com/AtelierArith/PyPlotly.jl)
+
+
+- [AtelierArith/GomalizingFlow.jl](https://github.com/AtelierArith/GomalizingFlow.jl)
+
 
 ## 2021
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MyTemplate.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/MyTemplate.jl)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=sysimage_creator&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/sysimage_creator)
+- [terasakisatoshi/MyTemplate.jl](https://github.com/terasakisatoshi/MyTemplate.jl)
+- [terasakisatoshi/sysimage_creator](https://github.com/terasakisatoshi/sysimage_creator)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MyPlutoflow.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/MyPlutoflow.jl)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=streamlit_handwritten_recognition&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/streamlit_handwritten_recognition)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=streamlit_handwritten_recognition&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/streamlit_handwritten_recognition)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=binder_docker_playground&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/binder_docker_playground)
+- [terasakisatoshi/MyPlutoflow.jl](https://github.com/terasakisatoshi/MyPlutoflow.jl)
+- [terasakisatoshi/streamlit_handwritten_recognition](https://github.com/terasakisatoshi/streamlit_handwritten_recognition)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MyVSCodeWorkspace.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/MyVSCodeWorkspace.jl)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=jldev_poetry&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/jldev_poetry)
+
+- [terasakisatoshi/streamlit_handwritten_recognition](https://github.com/terasakisatoshi/streamlit_handwritten_recognition)
+- [terasakisatoshi/binder_docker_playground](https://github.com/terasakisatoshi/binder_docker_playground)
+
+
+- [terasakisatoshi/MyVSCodeWorkspace.jl](https://github.com/terasakisatoshi/MyVSCodeWorkspace.jl)
+- [terasakisatoshi/jldev_poetry](https://github.com/terasakisatoshi/jldev_poetry)
+
 
 ## 2020
 
 ### JuliaLang
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=OpenCVBuilder.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/OpenCVBuilder.jl)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=ImageProcessing.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/ImageProcessing.jl)
+- [terasakisatoshi/OpenCVBuilder.jl](https://github.com/terasakisatoshi/OpenCVBuilder.jl)
+- [terasakisatoshi/ImageProcessing.jl](https://github.com/terasakisatoshi/ImageProcessing.jl)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MatPlotWrap.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/MatPlotWrap.jl)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=CallJ.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/CallJ.jl)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=wasm_with_julia&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/wasm_with_julia)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MyGenieExample.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/MyGenieExample.jl)
+- [terasakisatoshi/MatPlotWrap.jl](https://github.com/terasakisatoshi/MatPlotWrap.jl)
+- [terasakisatoshi/CallJ.jl](https://github.com/terasakisatoshi/CallJ.jl)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=CameraApp.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=HelloX.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/github-readme-stats)
+
+- [terasakisatoshi/wasm_with_julia](https://github.com/terasakisatoshi/wasm_with_julia)
+- [terasakisatoshi/MyGenieExample.jl](https://github.com/terasakisatoshi/MyGenieExample.jl)
+
+
+- [terasakisatoshi/CameraApp.jl](https://github.com/terasakisatoshi/CameraApp.jl)
+- [terasakisatoshi/HelloX.jl](https://github.com/terasakisatoshi/HelloX.jl)
+
 
 ### Deep Learning
 
 - This project was done when I was working at [Idein Inc.](https://idein.jp/en/)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=chainer-hand-pose&theme=monokai)](https://github.com/Idein/chainer-hand-pose)
+- [Idein/chainer-hand-pose](https://github.com/Idein/chainer-hand-pose)
+
 
 ## $\leq 2019$
 
 ### JuliaLang
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=Gomah.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/Gomah.jl)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=PPN.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/PPN.jl)
+- [terasakisatoshi/Gomah.jl](https://github.com/terasakisatoshi/Gomah.jl)
+- [terasakisatoshi/PPN.jl](https://github.com/terasakisatoshi/PPN.jl)
+
 
 ### Deep Learning
 
 - This project was done when I was working at [Idein Inc.](https://idein.jp/en/)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=chainer-pose-proposal-net&theme=monokai)](https://github.com/Idein/chainer-pose-proposal-net)
+- [Idein/chainer-pose-proposal-net](https://github.com/Idein/chainer-pose-proposal-net)
