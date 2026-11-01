@@ -10,6 +10,51 @@
 
 # Projects
 
+## 2026
+
+### terasakisatoshi
+
+- [terasakisatoshi/sarashina-arxiv-rag](https://github.com/terasakisatoshi/sarashina-arxiv-rag)
+- [terasakisatoshi/poisson_eq_jacobi_benchmark](https://github.com/terasakisatoshi/poisson_eq_jacobi_benchmark)
+- [terasakisatoshi/MvNormalBenchmark](https://github.com/terasakisatoshi/MvNormalBenchmark)
+- [terasakisatoshi/jlw_example](https://github.com/terasakisatoshi/jlw_example)
+- [terasakisatoshi/tsuru](https://github.com/terasakisatoshi/tsuru)
+- [terasakisatoshi/poisson_eq_sandbox](https://github.com/terasakisatoshi/poisson_eq_sandbox)
+- [terasakisatoshi/WarmTestRunner.jl](https://github.com/terasakisatoshi/WarmTestRunner.jl)
+- [terasakisatoshi/CxxFork.jl](https://github.com/terasakisatoshi/CxxFork.jl)
+- [terasakisatoshi/MeetingCaptionTranslator](https://github.com/terasakisatoshi/MeetingCaptionTranslator)
+- [terasakisatoshi/EMLRegression.jl](https://github.com/terasakisatoshi/EMLRegression.jl)
+- [terasakisatoshi/JuliaIME](https://github.com/terasakisatoshi/JuliaIME)
+- [terasakisatoshi/agents-skills-for-japanese](https://github.com/terasakisatoshi/agents-skills-for-japanese)
+- [terasakisatoshi/HelloWorldMPIRust.jl](https://github.com/terasakisatoshi/HelloWorldMPIRust.jl)
+- [terasakisatoshi/rsmpi_sandbox](https://github.com/terasakisatoshi/rsmpi_sandbox)
+- [terasakisatoshi/HelloWorldMPIRust_jll.jl](https://github.com/terasakisatoshi/HelloWorldMPIRust_jll.jl)
+
+### AtelierArith
+
+- [AtelierArith/HFTokenizers.jl](https://github.com/AtelierArith/HFTokenizers.jl)
+- [AtelierArith/QwenDecisionCore.jl](https://github.com/AtelierArith/QwenDecisionCore.jl)
+- [AtelierArith/tenferro-decision-rs](https://github.com/AtelierArith/tenferro-decision-rs)
+- [AtelierArith/KevClient.jl](https://github.com/AtelierArith/KevClient.jl)
+- [AtelierArith/JeffClient.jl](https://github.com/AtelierArith/JeffClient.jl)
+- [AtelierArith/QuantumEnvelopingAlgebras.jl](https://github.com/AtelierArith/QuantumEnvelopingAlgebras.jl)
+- [AtelierArith/MinGWToolchain.jl](https://github.com/AtelierArith/MinGWToolchain.jl)
+- [AtelierArith/Laya.jl](https://github.com/AtelierArith/Laya.jl)
+- [AtelierArith/JevClient.jl](https://github.com/AtelierArith/JevClient.jl)
+- [AtelierArith/PythonRNGs.jl](https://github.com/AtelierArith/PythonRNGs.jl)
+- [AtelierArith/AtelierArith_JuliaCon2026_talk](https://github.com/AtelierArith/AtelierArith_JuliaCon2026_talk)
+- [AtelierArith/tenferro-rs-deepseek-pr](https://github.com/AtelierArith/tenferro-rs-deepseek-pr)
+- [AtelierArith/PlatonicSolidsGenerator.jl](https://github.com/AtelierArith/PlatonicSolidsGenerator.jl)
+- [AtelierArith/atelier-arith-julia-development-skills](https://github.com/AtelierArith/atelier-arith-julia-development-skills)
+- [AtelierArith/LMStudioClient.jl](https://github.com/AtelierArith/LMStudioClient.jl)
+- [AtelierArith/julia-vm-oss](https://github.com/AtelierArith/julia-vm-oss)
+- [AtelierArith/pick-typst-oss](https://github.com/AtelierArith/pick-typst-oss)
+- [AtelierArith/better-pluto-client](https://github.com/AtelierArith/better-pluto-client)
+- [AtelierArith/SubsetJuliaVMSupportRepository](https://github.com/AtelierArith/SubsetJuliaVMSupportRepository)
+- [AtelierArith/RustCall.jl](https://github.com/AtelierArith/RustCall.jl)
+- [AtelierArith/RustToolChainExamples.jl](https://github.com/AtelierArith/RustToolChainExamples.jl)
+- [AtelierArith/CompPhysHack2026HandsOn](https://github.com/AtelierArith/CompPhysHack2026HandsOn)
+
 ## 2025
 
 - Activities in AtelierArith
